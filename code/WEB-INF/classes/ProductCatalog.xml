@@ -1,0 +1,630 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductCatalog>
+    <product id="001">
+        <name>SONY</name>
+        <price>399</price>
+        <category>TV</category>
+        <discount>1</discount>
+        <rdiscount>1</rdiscount>
+        <rwarranty>10</rwarranty>
+        
+        <retailer>Bestdeal</retailer>
+        <retailerZip>60616</retailerZip>
+        <retailerCity>Chicago</retailerCity>
+        <retailerState>IL</retailerState>
+        <productOnSale>YES</productOnSale>
+        <manufacturerName>eEnterprise</manufacturerName>
+        
+        <accessory>
+            <accname>TV Remote</accname>
+            <accprice>10</accprice>
+            <accdiscount>1</accdiscount>
+        </accessory>
+    </product>
+      <product id="002">
+        <name>Dell</name>
+        <price>233</price>
+        <category>Laptops</category>
+        <discount>11</discount>
+        <rdiscount>10</rdiscount>
+        <rwarranty>1</rwarranty>
+        
+        <retailer>GoOne</retailer>
+        <retailerZip>60616</retailerZip>
+        <retailerCity>Chicago</retailerCity>
+        <retailerState>IL</retailerState>
+        <productOnSale>YES</productOnSale>
+        <manufacturerName>eEnterprise</manufacturerName>
+        <accessory>
+            <accname>Mouse</accname>
+            <accprice>14</accprice>
+            <accdiscount>2</accdiscount>
+        </accessory>
+    </product>
+      <product id="003">
+        <name>HP</name>
+        <price>733</price>
+        <category>Laptops</category>
+        <discount>1</discount>
+        <rdiscount>9</rdiscount>
+        <rwarranty>9</rwarranty>
+        
+          <retailer>GoOne</retailer>
+        <retailerZip>60616</retailerZip>
+        <retailerCity>Chicago</retailerCity>
+        <retailerState>IL</retailerState>
+        <productOnSale>YES</productOnSale>
+        <manufacturerName>eEnterprise</manufacturerName>
+        <accessory>
+            <accname>Screen Cover</accname>
+            <accprice>12</accprice>
+            <accdiscount>2</accdiscount>
+        </accessory>
+    </product>
+      <product id="004">
+        <name>XPeria</name>
+        <price>999</price>
+        <category>SmartPhones</category>
+        <discount>5</discount>
+        <rdiscount>16</rdiscount>
+        <rwarranty>10</rwarranty>
+          <retailer>GoOne</retailer>
+        <retailerZip>60615</retailerZip>
+        <retailerCity>Chicago</retailerCity>
+        <retailerState>IL</retailerState>
+        <productOnSale>YES</productOnSale>
+        <manufacturerName>eEnterprise</manufacturerName>
+        <accessory>
+            <accname>Battery</accname>
+            <accprice>90</accprice>
+            <accdiscount>1</accdiscount>
+        </accessory>
+    </product>
+      <product id="005">
+        <name>Samsang</name>
+        <price>799</price>
+        <category>Tablets</category>
+        <discount>1</discount>
+        <rdiscount>1</rdiscount>
+        <rwarranty>10</rwarranty>
+        
+          <retailer>GoOne</retailer>
+        <retailerZip>60615</retailerZip>
+        <retailerCity>Chicago</retailerCity>
+        <retailerState>IL</retailerState>
+        <productOnSale>YES</productOnSale>
+        <manufacturerName>eEnterprise</manufacturerName>
+        <accessory>
+            <accname>Tablet stand</accname>
+            <accprice>100</accprice>
+            <accdiscount>1</accdiscount>
+        </accessory>
+    </product>
+    
+     <product id="006">
+        <name>E-TOSHIBA</name>
+        <price>599</price>
+        <category>TV</category>
+        <discount>13</discount>
+        <rdiscount>12</rdiscount>
+        <rwarranty>110</rwarranty>
+        
+          <retailer>GlobalDeal</retailer>
+        <retailerZip>75201</retailerZip>
+        <retailerCity>texas</retailerCity>
+        <retailerState>Dallas</retailerState>
+        <productOnSale>NO</productOnSale>
+        <manufacturerName>ITEnterprise</manufacturerName>
+        <accessory>
+            <accname>TV Remote</accname>
+            <accprice>10</accprice>
+            <accdiscount>1</accdiscount>
+        </accessory>
+    </product>
+      <product id="007">
+        <name>Apple</name>
+        <price>533</price>
+        <category>Other</category>
+        <discount>11</discount>
+        <rdiscount>10</rdiscount>
+        <rwarranty>1</rwarranty>
+        
+          <retailer>Bestbuy</retailer>
+        <retailerZip>60615</retailerZip>
+        <retailerCity>texas</retailerCity>
+        <retailerState>Dallas</retailerState>
+        <productOnSale>NO</productOnSale>
+        <manufacturerName>ITEnterprise</manufacturerName>
+        <accessory>
+            <accname>Mouse</accname>
+            <accprice>13</accprice>
+            <accdiscount>2</accdiscount>
+        </accessory>
+        <accessory>
+            <accname>Keyboard</accname>
+            <accprice>12</accprice>
+            <accdiscount>2</accdiscount>
+        </accessory>
+    </product>
+      <product id="008">
+        <name>Assus</name>
+        <price>333</price>
+        <category>Other</category>
+        <discount>13</discount>
+        <rdiscount>91</rdiscount>
+        <rwarranty>9</rwarranty>
+        
+          <retailer>Bestbuy</retailer>
+        <retailerZip>75201</retailerZip>
+        <retailerCity>texas</retailerCity>
+        <retailerState>Dallas</retailerState>
+        <productOnSale>NO</productOnSale>
+        <manufacturerName>ITEnterprise</manufacturerName>
+        <accessory>
+            <accname>Screen Cover</accname>
+            <accprice>23</accprice>
+            <accdiscount>1</accdiscount>
+        </accessory>
+    </product>
+      <product id="009">
+        <name>Apple iphone</name>
+        <price>939</price>
+        <category>SmartPhones</category>
+        <discount>25</discount>
+        <rdiscount>6</rdiscount>
+        <rwarranty>100</rwarranty>
+        
+        
+          <retailer>Bestbuy</retailer>
+        <retailerZip>75201</retailerZip>
+        <retailerCity>texas</retailerCity>
+        <retailerState>Dallas</retailerState>
+        <productOnSale>NO</productOnSale>
+        <manufacturerName>ITEnterprise</manufacturerName>
+        <accessory>
+            <accname>Battery</accname>
+            <accprice>92</accprice>
+            <accdiscount>1</accdiscount>
+        </accessory>
+    </product>
+      <product id="010">
+        <name>Toshiba</name>
+        <price>399</price>
+        <category>Tablets</category>
+        <discount>12</discount>
+        <rdiscount>9</rdiscount>
+        <rwarranty>19</rwarranty>
+        
+          <retailer>Bestbuy</retailer>
+        <retailerZip>75201</retailerZip>
+        <retailerCity>texas</retailerCity>
+        <retailerState>Dallas</retailerState>
+        <productOnSale>NO</productOnSale>
+        <manufacturerName>ITEnterprise</manufacturerName>
+        <accessory>
+            <accname>Tablet Screen gaurd</accname>
+            <accprice>90</accprice>
+            <accdiscount>12</accdiscount>
+        </accessory>
+    </product>
+    
+     <product id="011">
+        <name>Vizio</name>
+        <price>3299</price>
+        <category>TV</category>
+        <discount>14</discount>
+        <rdiscount>12</rdiscount>
+        <rwarranty>105</rwarranty>
+        
+        
+          <retailer>Bestbuy</retailer>
+        <retailerZip>75201</retailerZip>
+        <retailerCity>texas</retailerCity>
+        <retailerState>Dallas</retailerState>
+        <productOnSale>NO</productOnSale>
+        <manufacturerName>mountainM</manufacturerName>
+        <accessory>
+            <accname>TV Remote</accname>
+            <accprice>120</accprice>
+            <accdiscount>1</accdiscount>
+        </accessory>
+    </product>
+      <product id="012">
+        <name>Lenovo</name>
+        <price>2133</price>
+        <category>Other</category>
+        <discount>111</discount>
+        <rdiscount>110</rdiscount>
+        <rwarranty>3</rwarranty>
+        
+          <retailer>Kotakdeal</retailer>
+        <retailerZip>75201</retailerZip>
+        <retailerCity>texas</retailerCity>
+        <retailerState>Dallas</retailerState>
+        <productOnSale>NO</productOnSale>
+        <manufacturerName>mountainM</manufacturerName>
+        <accessory>
+            <accname>Mouse</accname>
+            <accprice>124</accprice>
+            <accdiscount>2</accdiscount>
+        </accessory>
+    </product>
+      <product id="013">
+        <name>Acer</name>
+        <price>2733</price>
+        <category>Laptops</category>
+        <discount>21</discount>
+        <rdiscount>29</rdiscount>
+        <rwarranty>9</rwarranty>
+        
+          <retailer>Kotakdeal</retailer>
+        <retailerZip>75201</retailerZip>
+        <retailerCity>texas</retailerCity>
+        <retailerState>Dallas</retailerState>
+        <productOnSale>NO</productOnSale>
+        <manufacturerName>mountainM</manufacturerName>
+        <accessory>
+            <accname>Screen Cover</accname>
+            <accprice>12</accprice>
+            <accdiscount>2</accdiscount>
+        </accessory>
+    </product>
+      <product id="014">
+        <name>NoteOne</name>
+        <price>299</price>
+        <category>SmartPhones</category>
+        <discount>15</discount>
+        <rdiscount>6</rdiscount>
+        <rwarranty>10</rwarranty>
+        
+          <retailer>Kotakdeal</retailer>
+        <retailerZip>75201</retailerZip>
+        <retailerCity>texas</retailerCity>
+        <retailerState>Dallas</retailerState>
+        <productOnSale>NO</productOnSale>
+        <manufacturerName>mountainM</manufacturerName>
+        <accessory>
+            <accname>Battery</accname>
+            <accprice>90</accprice>
+            <accdiscount>1</accdiscount>
+        </accessory>
+    </product>
+      <product id="015">
+        <name>Lenovo</name>
+        <price>499</price>
+        <category>Tablets</category>
+        <discount>1</discount>
+        <rdiscount>1</rdiscount>
+        <rwarranty>10</rwarranty>
+        
+          <retailer>Kotakdeal</retailer>
+        <retailerZip>75201</retailerZip>
+        <retailerCity>texas</retailerCity>
+        <retailerState>Dallas</retailerState>
+        <productOnSale>NO</productOnSale>
+        <manufacturerName>founderF</manufacturerName>
+        <accessory>
+            <accname>Tablet stand</accname>
+            <accprice>13</accprice>
+            <accdiscount>1</accdiscount>
+        </accessory>
+    </product>
+    
+     <product id="016">
+        <name>LG</name>
+        <price>1399</price>
+        <category>TV</category>
+        <discount>11</discount>
+        <rdiscount>1</rdiscount>
+        <rwarranty>120</rwarranty>
+        
+          <retailer>Kotakdeal</retailer>
+        <retailerZip>75201</retailerZip>
+        <retailerCity>texas</retailerCity>
+        <retailerState>Dallas</retailerState>
+        <productOnSale>NO</productOnSale>
+        <manufacturerName>founderF</manufacturerName>
+        <accessory>
+            <accname>TV Remote</accname>
+            <accprice>10</accprice>
+            <accdiscount>1</accdiscount>
+        </accessory>
+    </product>
+      <product id="017">
+        <name>Microsoft</name>
+        <price>2333</price>
+        <category>Other</category>
+        <discount>211</discount>
+        <rdiscount>10</rdiscount>
+        <rwarranty>21</rwarranty>
+        
+          <retailer>GlobalDeal</retailer>
+        <retailerZip>75201</retailerZip>
+        <retailerCity>texas</retailerCity>
+        <retailerState>Dallas</retailerState>
+        <productOnSale>NO</productOnSale>
+        <manufacturerName>founderF</manufacturerName>
+        <accessory>
+            <accname>Mouse</accname>
+            <accprice>124</accprice>
+            <accdiscount>2</accdiscount>
+        </accessory>
+    </product>
+      <product id="018">
+        <name>Nokia</name>
+        <price>7323</price>
+        <category>Other</category>
+        <discount>21</discount>
+        <rdiscount>29</rdiscount>
+        <rwarranty>29</rwarranty>
+        
+          <retailer>GlobalDeal</retailer>
+        <retailerZip>75201</retailerZip>
+        <retailerCity>texas</retailerCity>
+        <retailerState>Dallas</retailerState>
+        <productOnSale>NO</productOnSale>
+        <manufacturerName>founderF</manufacturerName>
+        <accessory>
+            <accname>Screen Cover</accname>
+            <accprice>12</accprice>
+            <accdiscount>2</accdiscount>
+        </accessory>
+    </product>
+      <product id="019">
+        <name>Motorola</name>
+        <price>399</price>
+        <category>SmartPhones</category>
+        <discount>25</discount>
+        <rdiscount>6</rdiscount>
+        <rwarranty>1</rwarranty>
+        
+          <retailer>GlobalDeal</retailer>
+        <retailerZip>75201</retailerZip>
+        <retailerCity>texas</retailerCity>
+        <retailerState>Dallas</retailerState>
+        <productOnSale>NO</productOnSale>
+        <manufacturerName>founderF</manufacturerName>
+        <accessory>
+            <accname>Battery</accname>
+            <accprice>90</accprice>
+            <accdiscount>1</accdiscount>
+        </accessory>
+    </product>
+      <product id="020">
+        <name>Akash</name>
+        <price>909</price>
+        <category>Tablets</category>
+        <discount>21</discount>
+        <rdiscount>1</rdiscount>
+        <rwarranty>10</rwarranty>
+        
+          <retailer>GlobalDeal</retailer>
+        <retailerZip>75201</retailerZip>
+        <retailerCity>texas</retailerCity>
+        <retailerState>Dallas</retailerState>
+        <productOnSale>NO</productOnSale>
+        <manufacturerName>ecertify</manufacturerName>
+        <accessory>
+            <accname>Tablet stand</accname>
+            <accprice>100</accprice>
+            <accdiscount>1</accdiscount>
+        </accessory>
+    </product>
+    
+     <product id="021">
+        <name>Panasonic</name>
+        <price>1399</price>
+        <category>TV</category>
+        <discount>12</discount>
+        <rdiscount>1</rdiscount>
+        <rwarranty>100</rwarranty>
+         <retailer>Bestdeal</retailer>
+        <retailerZip>60616</retailerZip>
+        <retailerCity>Chicago</retailerCity>
+        <retailerState>IL</retailerState>
+        <productOnSale>YES</productOnSale>
+        <manufacturerName>macb</manufacturerName>
+        <accessory>
+            <accname>TV Remote</accname>
+            <accprice>100</accprice>
+            <accdiscount>21</accdiscount>
+        </accessory>
+    </product>
+      <product id="022">
+        <name>MOto</name>
+        <price>2233</price>
+        <category>Laptops</category>
+        <discount>11</discount>
+        <rdiscount>10</rdiscount>
+        <rwarranty>1</rwarranty>
+         <retailer>Bestdeal</retailer>
+        <retailerZip>60616</retailerZip>
+        <retailerCity>Chicago</retailerCity>
+        <retailerState>IL</retailerState>
+        <productOnSale>YES</productOnSale>
+        <manufacturerName>macb</manufacturerName>
+        <accessory>
+            <accname>Mouse</accname>
+            <accprice>14</accprice>
+            <accdiscount>2</accdiscount>
+        </accessory>
+    </product>
+      <product id="023">
+        <name>Minta</name>
+        <price>333</price>
+        <category>Laptops</category>
+        <discount>1</discount>
+        <rdiscount>9</rdiscount>
+        <rwarranty>9</rwarranty>
+         <retailer>Bestdeal</retailer>
+        <retailerZip>10001</retailerZip>
+        <retailerCity>Newyork</retailerCity>
+        <retailerState>NY</retailerState>
+        <productOnSale>YES</productOnSale>
+        <manufacturerName>macb</manufacturerName>
+        <accessory>
+            <accname>Screen Cover</accname>
+            <accprice>12</accprice>
+            <accdiscount>2</accdiscount>
+        </accessory>
+    </product>
+      <product id="024">
+        <name>ZBrand</name>
+        <price>9229</price>
+        <category>SmartPhones</category>
+        <discount>5</discount>
+        <rdiscount>126</rdiscount>
+        <rwarranty>10</rwarranty>
+         <retailer>Bestdeal</retailer>
+        <retailerZip>10001</retailerZip>
+        <retailerCity>Newyork</retailerCity>
+        <retailerState>NY</retailerState>
+        <productOnSale>YES</productOnSale>
+        <manufacturerName>macb</manufacturerName>
+        <accessory>
+            <accname>Battery</accname>
+            <accprice>90</accprice>
+            <accdiscount>1</accdiscount>
+        </accessory>
+    </product>
+      <product id="025">
+        <name>Apple Brand</name>
+        <price>499</price>
+        <category>Tablets</category>
+        <discount>1</discount>
+        <rdiscount>1</rdiscount>
+        <rwarranty>10</rwarranty>
+         <retailer>GoOne</retailer>
+       <retailerZip>10001</retailerZip>
+        <retailerCity>Newyork</retailerCity>
+        <retailerState>NY</retailerState>
+        <productOnSale>YES</productOnSale>
+        <manufacturerName>macb</manufacturerName>
+        <accessory>
+            <accname>Tablet stand</accname>
+            <accprice>100</accprice>
+            <accdiscount>1</accdiscount>
+        </accessory>
+    </product>
+    
+     <product id="026">
+        <name>Xavior</name>
+        <price>2399</price>
+        <category>TV</category>
+        <discount>12</discount>
+        <rdiscount>1</rdiscount>
+        <rwarranty>10</rwarranty>
+         <retailer>GoOne</retailer>
+        <retailerZip>10001</retailerZip>
+        <retailerCity>Newyork</retailerCity>
+        <retailerState>NY</retailerState>
+        <productOnSale>YES</productOnSale>
+        <manufacturerName>honeywell</manufacturerName>
+        <accessory>
+            <accname>TV Remote</accname>
+            <accprice>10</accprice>
+            <accdiscount>1</accdiscount>
+        </accessory>
+    </product>
+      <product id="027">
+        <name>SamsangLaptops</name>
+        <price>3233</price>
+        <category>Laptops</category>
+        <discount>11</discount>
+        <rdiscount>10</rdiscount>
+        <rwarranty>1</rwarranty>
+         <retailer>GoOne</retailer>
+        <retailerZip>10001</retailerZip>
+        <retailerCity>Newyork</retailerCity>
+        <retailerState>NY</retailerState>
+        <productOnSale>YES</productOnSale>
+        <manufacturerName>honeywell</manufacturerName>
+        <accessory>
+            <accname>Mouse</accname>
+            <accprice>14</accprice>
+            <accdiscount>2</accdiscount>
+        </accessory>
+    </product>
+      <product id="028">
+        <name>SansuiLaptops</name>
+        <price>2733</price>
+        <category>Laptops</category>
+        <discount>1</discount>
+        <rdiscount>9</rdiscount>
+        <rwarranty>9</rwarranty>
+         <retailer>Bestdeal</retailer>
+        <retailerZip>10001</retailerZip>
+        <retailerCity>Newyork</retailerCity>
+        <retailerState>NY</retailerState>
+        <productOnSale>YES</productOnSale>
+        <manufacturerName>honeywell</manufacturerName>
+        <accessory>
+            <accname>Screen Cover</accname>
+            <accprice>12</accprice>
+            <accdiscount>2</accdiscount>
+        </accessory>
+    </product>
+      <product id="029">
+        <name>SamsuiElectronics</name>
+        <price>299</price>
+        <category>SmartPhones</category>
+        <discount>25</discount>
+        <rdiscount>16</rdiscount>
+        <rwarranty>10</rwarranty>
+         <retailer>Kotakdeal</retailer>
+        <retailerZip>29901</retailerZip>
+        <retailerCity>california</retailerCity>
+        <retailerState>CAL</retailerState>
+        <productOnSale>YES</productOnSale>
+        <manufacturerName>honeywell</manufacturerName>
+        <accessory>
+            <accname>Battery</accname>
+            <accprice>90</accprice>
+            <accdiscount>1</accdiscount>
+        </accessory>
+    </product>
+      <product id="030">
+        <name>samsui</name>
+        <price>49</price>
+        <category>Tablets</category>
+        <discount>1</discount>
+        <rdiscount>1</rdiscount>
+        <rwarranty>10</rwarranty>
+         <retailer>Kotakdeal</retailer>
+        <retailerZip>29901</retailerZip>
+        <retailerCity>california</retailerCity>
+        <retailerState>CAL</retailerState>
+        <productOnSale>YES</productOnSale>
+        <manufacturerName>honeywell</manufacturerName>
+        <accessory>
+            <accname>Tablet stand</accname>
+            <accprice>100</accprice>
+            <accdiscount>1</accdiscount>
+        </accessory>
+    </product>
+     
+      <product id="031">
+        <name>BookLaptop</name>
+        <price>5233</price>
+        <category>Other</category>
+        <discount>11</discount>
+        <rdiscount>10</rdiscount>
+        <rwarranty>1</rwarranty>
+         <retailer>Kotakdeal</retailer>
+        <retailerZip>29901</retailerZip>
+        <retailerCity>california</retailerCity>
+        <retailerState>CAL</retailerState>
+        <productOnSale>YES</productOnSale>
+        <manufacturerName>mountainM</manufacturerName>
+        <accessory>
+            <accname>Mouse</accname>
+            <accprice>13</accprice>
+            <accdiscount>2</accdiscount>
+        </accessory>
+        <accessory>
+            <accname>Keyboard</accname>
+            <accprice>12</accprice>
+            <accdiscount>2</accdiscount>
+        </accessory>
+    </product>
+</ProductCatalog>
